@@ -5,8 +5,15 @@ body{
   color:white;
 }
 .header1{
-  margin-top: 50vh;
+  margin-top: 20vh;
 }
 .daBtn{
  margin-top: 5%;
+}
+
+.helmet{
+  margin-top:20px;
+}
+.mainHeader{
+  font-size:48px;
 }

@@ -9,9 +9,19 @@ app.controller("myController", ['$scope', function($scope) {
   players = [{
     qb: "Josh McCown"
   }, {
+    qb: "Johnny Manziel"
+  }, {
     rb: "Isaiah Crowell"
   }, {
+    rb: "Terrance West"
+  }, {
     wr: "Travis Benjamin"
+  }, {
+    wr: "Brian Hartline"
+  }, {
+    wr: "Andrew Hawkins"
+  }, {
+    wr: "Gary Barnidge"
   }]
 
   function getTimeRemaining() {
