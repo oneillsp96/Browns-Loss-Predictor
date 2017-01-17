@@ -1,0 +1,7 @@
+brew install nvm
+nvm ls   shows all versions
+semver - v 1.2.3 -- major.minor.patch
+
+major - not backward compatible
+minor - backwards compatile changes
+patch - bug fixes
